@@ -1,1 +1,0 @@
-worker: gcc bgmi.c -o bgmi && chmod +x bgmi && python run_bot.py
