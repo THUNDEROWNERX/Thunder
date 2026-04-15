@@ -1,9 +1,9 @@
 {
     "maintenance_version": 3,
     "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nPlease try again later.",
-    "current_version_code": 6,
+    "current_version_code": 7,
     "latest_version": "Bgmi 4.3",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Aimbot Fixed\n• ESP Added\n• Anti-Ban Updated",
     "lib_url": "https://onlinelib.ggff.net/Thunder/download.php?t=lib10",
-    "success_toast": "✅ Thunder Cheats Activated Successfully!"
+    "success_toast": "✅ Thunder Activated Successfully!"
 }
