@@ -1,5 +1,5 @@
 {
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nExpected Completion: 24 Hour's\n\nPlease try again later.",
     "current_version_code": 8,
     "latest_version": "Bgmi 4.3",
