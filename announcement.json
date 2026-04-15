@@ -1,5 +1,5 @@
 {
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "maintenance_message": "🔧 MAINTENANCE MODE",
     "current_version_code": 3,
     "latest_version": "Bgmi 4.4",
