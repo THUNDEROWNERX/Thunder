@@ -1,6 +1,7 @@
 {
-    "maintenance_mode": false,
-    "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nPlease try again later.\n\nThank you for your patience!",
+    "maintenance_version": 1,
+    "maintenance_mode": true,
+    "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nPlease try again later.",
     "current_version_code": 6,
     "latest_version": "Bgmi 4.3",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Aimbot Fixed\n• ESP Added\n• Anti-Ban Updated",
