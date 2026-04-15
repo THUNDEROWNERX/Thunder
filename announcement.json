@@ -1,9 +1,9 @@
 {
-    "maintenance_mode": true,
+    "maintenance_mode": false,
     "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nExpected Completion: 24 Hour's\n\nPlease try again later.",
-    "current_version_code": 9,
+    "current_version_code": 10,
     "latest_version": "Bgmi 4.3",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Aimbot Fixed\n• ESP Added\n• Anti-Ban Updated",
     "lib_url": "https://onlinelib.ggff.net/Thunder/download.php?t=lib10",
-    "success_toast": "✅ Server Active!"
+    "success_toast": "✅ Server Active Now!"
 }
