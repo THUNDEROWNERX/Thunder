@@ -1,7 +1,7 @@
 {
     "maintenance_mode": true,
     "maintenance_message": "🔧 MAINTENANCE MODE...",
-    "current_version_code": 7,
+    "current_version_code": 8,
     "latest_version": "Bgmi 4.3",
     "message": "🔥 Installing new update! 🔥...",
     "lib_url": "https://onlinelib.ggff.net/Thunder/download.php?t=lib10",
