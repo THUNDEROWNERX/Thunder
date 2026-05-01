@@ -1,9 +1,9 @@
 {
     "maintenance_mode": false,
     "maintenance_message": "🔧 MAINTENANCE MODE...",
-    "current_version_code": 1,
+    "current_version_code": 2,
     "latest_version": "Bgmi 4.3",
-    "message": "🔥 Installing new update! 🔥...",
-    "lib_url": "",
+    "message": "🔥 Installing new update! 🔥",
+    "lib_url": "https://onlinelib.ggff.net/Thunder/download.php?t=lib10",
     "success_toast": "✅BYPASS ACTIVE TIME IS 2026/05/1!"
 }
