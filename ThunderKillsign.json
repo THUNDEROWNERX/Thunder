@@ -1,9 +1,9 @@
 {
     "maintenance_mode": false,
-    "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.",
-    "current_version_code": 2,
+    "maintenance_message": "🔧 MAINTENANCE MODE...",
+    "current_version_code": 3,
     "latest_version": "Bgmi 4.3",
-    "message": "🔥 NEW UPDATE! 🔥\n\n• Aimbot Fixed\n• ESP Added",
+    "message": "🔥 NEW UPDATE! 🔥...",
     "lib_url": "https://onlinelib.ggff.net/Thunder/download.php?t=lib10",
-    "success_toast": "✅ BYPASS ACTIVE TIME IS 2026/04/30!"
+    "success_toast": "✅BYPASS ACTIVE TIME IS 2026/04/30!"
 }
